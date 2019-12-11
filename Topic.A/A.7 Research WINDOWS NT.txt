@@ -1,0 +1,87 @@
+﻿WINDOWS NT
+
+
+
+
+* NT was an acronym for New Technology, although now that is redundant and NT is not an acronym anymore.
+* Microsoft Windows Operating System designed for users 
+* The first version of Windows NT released on July 27, 1993.
+* Multiprocessing and multi-user operating system that is completely independent of the processor.
+* Software called MiniTool helps manage partitions better on Windows NT.
+* Two versions of Windows NT exist Windows NT Workstation and Windows NT Server two versions. Both have an emphasis on different functions. NT Workstation is designed for the workstation operating system, which is suitable for the interactive desktop environment while NT Server is for companies’ operating systems to provide an easy to manage, responsive network environment.
+
+
+Workstation: Hardware is suitable for individual users and it can be applied when the workstation has CAD/CAM and other advanced application requirements. NT Workstation only supports two processors. Since it is a network server, no more than 10 clients can be connected to complete limited network service functions. Only one remote client access can be supported. Mac files and printing are not supported. Disk fault tolerance is not available.
+
+
+
+
+TOPIC A
+User (client) or network (server) applications
+Windows NT had little to no client software and that was a major problem for windows NT compared to other OSs at the time.
+Batch (run without user input) or interactive (user-focused) processing
+Starting in Windows NT, windows started to create .bat files (batch) and use them in command prompt or CMD.EXE.
+Off-the-shelf (purchased) or custom-developed applications
+Windows NT contained programs like the User Manager, the Performance Monitor, the Disk Administrator, the Event Viewer, and the Backup application. The Advanced Server contained further, server-specific administration tools.
+
+
+
+
+Programming environment and languages supported
+Windows NT was created in C++and assembly language. It also supported English, dutch French, German, Japanese, Spanish and Swedish.
+
+
+
+
+
+
+
+
+
+
+TOPIC B Hardware
+        Speed of processors/memory
+Windows NT needs 12-16 MBs of ram, a 25Mhz 80386 Intel or RISC processor, a VGA graphics card as its minimum requirement. 
+        The capacity of memory / attached disks 
+Windows NT needs 75-90 MBs of storage of free disk space.
+Is it designed for home/office / corporate data center / industrial use?
+Windows NT was produced for workstations and server computers, but it was later expanded into Microsoft’s personal computers line.
+        Is it designed for client/server/network use?
+Windows NT was designed for server computers and was also later intended for client-side applications.
+
+
+
+
+TOPIC C User Interface
+Does it support a windowed environment, command line, or network users?
+The 32-bit subspace POSIX which is in windows NT 3,1 allows for the command-line based OS/2 Applications to run. It also includes a 32-bit command processor called CMD.EXE
+Does it support multiple users at a time or single users
+All users have their own user account and specific settings like program manager groups or passwords. But only a single user can use it at a time.
+        Does it support multiple applications or a single application at a time
+Windows NT has cooperatively multitasking which allows for multiple applications to share resources when one of them is open at the time.
+Does it get rebooted (powered on / off) or is it always on
+Windows NT rebooted whenever a user decides they want to stop using it but in server situations, it would stay on the whole time.
+
+
+
+
+
+        TOPIC D
+Windows NT does not have a device manager, instead, you must use the Control Panel and icons / Microsoft Management Console snap-in. User(s) would have to manually install drivers
+
+
+Sub-Topics: Microsoft Management Console, Drivers
+
+
+TOPIC E
+Windows NT has user authentication to access a Windows-based network and all resources on the network. The user needs a login username and password. NT also has object-based security, which refers to the ability to establish access control over specific devices and resources on the server. To be able to access a resource such as a printer, users must have permission to access it. Permissions to devices, resources, or files on the network can be granted to an individual user, or they can be assigned to entire groups of users.
+
+
+        Sub-Topics: User Logon, Object-based security, File and directory security
+
+
+TOPIC F
+Windows NT is apart of a larger network. Windows NT used OS/2 networking as well as TCP/IP networking. Windows NT does not have a firewall but it has a backup application called NTBackup.
+
+
+Sub-Topics: OS/2, TCP/IP, NTBackup
